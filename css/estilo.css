@@ -4,19 +4,16 @@ body {
 
 .titulo {
     padding-bottom: -50%;
+    font-size: 38px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center!IMPORTANT;
 }
 
 .b {
-    font-size: 48px;
-    font-family: 'Roboto Condensed', sans-serif;
-    text-align: center;
     color: #fcfcfc;
 }
 
 .a {
-    font-size: 48px;
-    font-family: 'Roboto Condensed', sans-serif;
-    text-align: center;
     color: #dbcc45;
 }
 
