@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(48, 48, 48);
+}
+
+.titulo {
+    padding-bottom: -50%;
+}
+
+.b {
+    font-size: 48px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    color: #fcfcfc;
+}
+
+.a {
+    font-size: 48px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    color: #dbcc45;
+}
+
+.video {
+    text-align: center;
+    border-color: lightcyan;
+}
+
+.icon {
+    text-align: center!IMPORTANT;
+    padding-top: 3%!IMPORTANT;
+    font-size: 18px!IMPORTANT;
+    font-family: 'Poppins', sans-serif!IMPORTANT;
+    color: #fcfcfc!IMPORTANT;
+}
